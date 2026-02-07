@@ -15,7 +15,7 @@ Everything I make is designed to lower the barrier to running AI locally.
 | [**Auto Portable Python Deployer**](https://github.com/rookiemann/auto-portable-python-deployer) | Self-bootstrapping tool that generates fully portable Python deployment packages. Supports Python 3.10–3.14 with GUI and CLI. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
 | [**ImageBuddy**](https://github.com/rookiemann/ImageBuddy) | Stock image search, batch download, and AI captioning (Florence-2) with multi-GPU parallel processing and REST API. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
 | [**n8n + Python Portable**](https://github.com/rookiemann/n8n-python-portable) | n8n 1.123.5 + Python 3.14 bundled into one folder. Extract, run, done. Python Code node works instantly. | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
-| [**llama-cpp-python Wheel**](https://github.com/rookiemann/llama-cpp-python-py314-cuda131-wheel-or-python314-llama-cpp-gpu-wheel) | Pre-built GPU-accelerated llama-cpp-python wheel for Python 3.14 + CUDA 13.1. | ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white) |
+| [**llama-cpp-python Wheel**](https://github.com/rookiemann/llama-cpp-python-py314-cuda131-wheel) | Pre-built GPU-accelerated llama-cpp-python wheel for Python 3.14 + CUDA 13.1. | ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white) |
 
 ---
 
