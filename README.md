@@ -1,4 +1,4 @@
-# Hey, I'm rookiemann
+# Hey, I'm aivrar
 
 I build **portable, zero-install AI tools for Windows** — the kind you can drop on a USB stick, double-click, and just use. No Docker, no Python installs, no admin rights, no PATH headaches.
 
